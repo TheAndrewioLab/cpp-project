@@ -1,1 +1,1 @@
-These scripts prompt the drone in Gazebo Harmomic to perform a variety of elementary movement functions such as hovering, and moving in various directions.
+These scripts instruct the drone in Gazebo Harmonic to execute basic movement functions, such as hovering and directional movement. Since the Dronekit libraries may be outdated, switching to pymavlink might be necessary to ensure the scripts run properly.
